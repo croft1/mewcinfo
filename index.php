@@ -80,7 +80,7 @@
 	
     <!-- Header -->
     <header class="mainheader masthead d-flex">
-      <div class="container text-center my-auto">
+      <div class="container text-center my-auto"  style="background-color:rgba(255, 255, 255, .5)">
         <h1 class="mb-1">Michael E W Carter</h1>
         <h3 class="mb-5">
           <em>Business, Software & Footy</em>
