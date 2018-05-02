@@ -69,6 +69,9 @@
         <li>
           <a class="js-scroll-trigger link" href="www.hammondorgans.com.au">HammondOrgans Au</a>
         </li>
+		<li>
+          <a class="js-scroll-trigger link" href="https://timesheet-helper.herokuapp.com/">Timesheet Helper</a>
+        </li>
       </ul>
     </nav>
 
